@@ -1,4 +1,5 @@
-## Opa! Aqui é o Chris😀👍
+## Opa! Sou o Chris 😀👍
+
 
 ![Christian GitHub stats](https://github-readme-stats.vercel.app/api?username=xhriszx7&show_icons=true&theme=midnight-purple)
 
